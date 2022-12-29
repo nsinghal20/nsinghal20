@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React.js Node.js
 - 🌱 I’m looking for internship/placements
 - 📫 Contact me on nsinghal_be20@thapar.edu or nikunj02002@gmail.com
+- My Technical Skills are HTML5 ,CSS , JAVASCRIPT,React,js,node.js,mongodb,express,MERN stack
 
 <!---
 nsinghal20/nsinghal20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
